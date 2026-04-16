@@ -1,0 +1,3 @@
+python-telegram-bot
+xai-sdk
+python-dotenv
